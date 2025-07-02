@@ -1,3 +1,6 @@
+import controllers.ContactoController;
+import controllers.Sets;
+
 public class App {
     public static void main(String[] args) {
         runHashSet();
@@ -5,6 +8,8 @@ public class App {
         runTreeSet();
         runTreeSetComparator();
         runTreeSetDescendente();
+        ContactoController contactoController = new ContactoController();
+
     }
     public static void runHashSet() {
         Sets sets = new Sets();

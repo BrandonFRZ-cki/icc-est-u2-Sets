@@ -3,7 +3,7 @@
 
 ## 📌 Información General
 
-- **Título:** Práctica de Sets
+- **Título:** Práctica de controllers.Sets
 - **Asignatura:** Estructura de Datos
 - **Carrera:** Computación
 - **Estudiante:** Brandon Fernando Rivera Zambrano
@@ -20,5 +20,5 @@ Para ejecutar el proyecto:
 
 
 ## 📌 Ejemplo de Salida
-![img.png](img.png)
+![img_1.png](img_1.png)
 
