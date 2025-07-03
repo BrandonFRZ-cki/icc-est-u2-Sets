@@ -1,4 +1,5 @@
 import controllers.ContactoController;
+import controllers.Ejercicios;
 import controllers.Sets;
 
 public class App {
@@ -9,6 +10,7 @@ public class App {
         runTreeSetComparator();
         runTreeSetDescendente();
         ContactoController contactoController = new ContactoController();
+        Ejercicios ejercicios = new Ejercicios();
 
     }
     public static void runHashSet() {

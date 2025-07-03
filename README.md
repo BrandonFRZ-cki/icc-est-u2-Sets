@@ -20,5 +20,6 @@ Para ejecutar el proyecto:
 
 
 ## 📌 Ejemplo de Salida
-![img_1.png](img_1.png)
+![img.png](img.png)
+
 
